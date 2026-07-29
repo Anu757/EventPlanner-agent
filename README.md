@@ -42,9 +42,13 @@ event-planner/
 
 Follow these steps to run the project:
 
-### 1. Clone the Repository
 
-2. Create Virtual Environment
+1. Clone the Repository
+
+git clone https://github.com/your-username/Recipe-Generator-Agent.git
+cd Recipe-Generator-Agent
+
+3. Create Virtual Environment
 
 python -m venv venv
 
