@@ -45,8 +45,8 @@ Follow these steps to run the project:
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/Recipe-Generator-Agent.git
-cd Recipe-Generator-Agent
+git clone https://github.com/your-username/Event_Planner-Agent.git
+cd Event_planner_Agent
 
 3. Create Virtual Environment
 
